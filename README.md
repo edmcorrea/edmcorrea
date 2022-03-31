@@ -1,9 +1,9 @@
 ### Olá! Eu sou Edmilson Corrêa 👋
 
 - 🔭 Atualmente estou trabalhando em fiscalização de obras
-- 🌱 Estou aprendendo Front End 
+- 🌱 Aprendendo Front End 
 - 📫 Como chegar até mim: edm.correa@hotmail.com
-- 😄 Pronomes: ela / dele
+- 😄 Pronomes: ele / dele
 - ⚡ Curiosidade: Adoro ler, praticar exercícios, forró 
 
 <div align="center">
