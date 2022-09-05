@@ -1,10 +1,10 @@
 ### Olá! Eu sou Edmilson Corrêa 👋
 
-- 🔭 Atualmente estou trabalhando em fiscalização de obras
-- 🌱 Aprendendo Front End 
+- 📚 Estudante de Desenvolvimento Web da Trybe
+- 🌱 Aprendendo Back-End 
 - 📫 Como chegar até mim: edm.correa@hotmail.com
 - 😄 Pronomes: ele / dele
-- ⚡ Curiosidade: Adoro ler, praticar exercícios, forró 
+- ⚡ Curiosidade: Adoro ler, praticar exercícios, forró, apaixonado por tecnologia
 
 <div align="center">
   <a href="https://github.com/edmcorrea">
@@ -13,6 +13,7 @@
 </div>
   
  <div style="display: inline_block"><br>
+ JavaScript
   <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Ed-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
