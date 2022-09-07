@@ -1,7 +1,7 @@
 ### Olá! Eu sou Edmilson Corrêa 👋
 
 - 📚 Estudante de Desenvolvimento Web da Trybe
-- 🌱 Aprendendo Back-End 
+- 🌱 Aprendendo Back-end 
 - 📫 Como chegar até mim: edm.correa@hotmail.com
 - 😄 Pronomes: ele / dele
 - ⚡ Curiosidade: Adoro ler, praticar exercícios, forró, apaixonado por tecnologia
