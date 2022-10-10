@@ -2,7 +2,7 @@
 
 - 📚 Estudante de Desenvolvimento Web da Trybe
 - 🌱 Aprendendo Back-end 
-- 📫 Como chegar até mim: edm.correa@hotmail.com
+- 📫 Como chegar até mim: edm.correa@hotmail.com | https://www.linkedin.com/in/edmilsoncorrea/
 - 😄 Pronomes: ele / dele
 - ⚡ Curiosidade: Adoro ler, praticar exercícios, forró, apaixonado por tecnologia
 
