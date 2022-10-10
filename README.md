@@ -34,6 +34,11 @@
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
         </td>
         <td width="80px" align="center">
+          <span><strong>React.js</strong></span><br>
+          <img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png">
+        </td>
+        
+        <td width="80px" align="center">
           <span><strong>GitHub</strong></span><br>
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
         </td>
