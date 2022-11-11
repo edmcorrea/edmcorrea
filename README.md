@@ -37,7 +37,9 @@
           <span><strong>Redux</strong></span><br>
           <img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png">
         </td>
-        <td width="80px" align="center">
+      </tr>
+     <tr>
+       <td width="80px" align="center">
           <span><strong>GitHub</strong></span><br>
           <img height="32" src="https://user-images.githubusercontent.com/98132078/200326052-aa182e9f-2637-41f1-8ba9-2665bb8d1bb3.png"> 
         </td>
@@ -57,7 +59,7 @@
           <span><strong>TypeScript</strong></span><br>
           <img height="32" src="https://user-images.githubusercontent.com/98132078/200368739-feb04eec-9271-4963-a569-1cabedd86139.png">
         </td>
-      </tr>
+     </tr>
    </tbody>   
  </table>  
      
