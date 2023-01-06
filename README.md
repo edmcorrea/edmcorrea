@@ -5,6 +5,7 @@
 - 📫 Como chegar até mim: edm.correa@hotmail.com  |  https://www.linkedin.com/in/edmilsoncorrea/
 - 😄 Pronomes: ele / dele
 - ⚡ Curiosidade: Adoro ler, praticar exercícios, forró, apaixonado por tecnologia
+- Portifólio: https://portifolio-virid-gamma.vercel.app/
 
 <div align="center">
   <a href="https://github.com/edmcorrea">
