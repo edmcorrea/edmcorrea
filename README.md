@@ -1,7 +1,7 @@
 ### Olá! Eu sou Edmilson Corrêa 👋
 
-- 📚 Estudante de Desenvolvimento Web da Trybe
-- 🌱 Aprendendo Back-end 
+- 📚 Estudante de Desenvolvimento Web - Full Stack - Trybe
+- 🌱 Aprendendo Computer Science
 - 📫 Como chegar até mim: edm.correa@hotmail.com  |  https://www.linkedin.com/in/edmilsoncorrea/
 - 😄 Pronomes: ele / dele
 - ⚡ Curiosidade: Adoro ler, praticar exercícios, forró, apaixonado por tecnologia
