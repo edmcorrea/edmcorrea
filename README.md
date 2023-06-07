@@ -9,8 +9,10 @@
 
 <div align="center">
   <a href="https://github.com/edmcorrea">
-  <img width="48%" height="48%" src="https://github-readme-stats.vercel.app/api?username=edmcorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmcorrea&layout=compact&langs_count=7&theme=dark"/>
+    
+<!--   <img width="47%" height="47%" src="https://github-readme-stats.vercel.app/api?username=edmcorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+    
+  <img width="47%" height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmcorrea&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <br />
@@ -22,6 +24,10 @@
           <span><strong>Javascript</strong></span><br>
           <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         </td>
+        <td width="80px" align="center">
+          <span><strong>TypeScript</strong></span><br>
+          <img height="32" src="https://user-images.githubusercontent.com/98132078/200368739-feb04eec-9271-4963-a569-1cabedd86139.png">
+       </td>
         <td width="80px" align="center">
           <span><strong>React.js</strong></span><br>
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -40,14 +46,10 @@
         </td>
       </tr>
      <tr>
-         <td width="80px" align="center">
-          <span><strong>TypeScript</strong></span><br>
-          <img height="32" src="https://user-images.githubusercontent.com/98132078/200368739-feb04eec-9271-4963-a569-1cabedd86139.png">
-       </td>
        <td width="80px" align="center">
           <span><strong>Node.js</strong></span><br>
           <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
-        </td>
+       </td>
        <td width="80px" align="center">
           <span><strong>Docker</strong></span><br>
           <img height="32" src="https://user-images.githubusercontent.com/98132078/200325516-24a48ef3-0baa-4dad-82a6-3891630b74aa.png">
@@ -58,8 +60,16 @@
         </td>
         <td width="80px" align="center">
           <span><strong>MySQL</strong></span><br>
-          <img height="32" src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67">
+          <img height="32" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png">
         </td>
+       <td width="80px" align="center">
+          <span><strong>Python</strong></span><br>
+          <img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+       </td>
+       <td width="80px" align="center">
+          <span><strong>C#</strong></span><br>
+          <img height="32" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">
+       </td>
      </tr>
    </tbody>   
  </table>  
