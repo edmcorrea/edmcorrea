@@ -55,8 +55,8 @@
           <img height="32" src="https://user-images.githubusercontent.com/98132078/200325516-24a48ef3-0baa-4dad-82a6-3891630b74aa.png">
        </td>
        <td width="80px" align="center">
-          <span><strong>GitHub</strong></span><br>
-          <img height="32" src="https://user-images.githubusercontent.com/98132078/200326052-aa182e9f-2637-41f1-8ba9-2665bb8d1bb3.png"> 
+          <span><strong>MongoDB</strong></span><br>
+          <img height="32" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"> 
         </td>
         <td width="80px" align="center">
           <span><strong>MySQL</strong></span><br>
