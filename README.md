@@ -56,7 +56,7 @@
        </td>
        <td width="80px" align="center">
           <span><strong>MongoDB</strong></span><br>
-          <img height="32" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"> 
+          <img height="32" src="https://www.svgrepo.com/download/331488/mongodb.svg"> 
         </td>
         <td width="80px" align="center">
           <span><strong>MySQL</strong></span><br>
