@@ -60,15 +60,15 @@
         </td>
         <td width="80px" align="center">
           <span><strong>MySQL</strong></span><br>
-          <img height="32" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/mysql-icon.png">
+          <img height="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
         </td>
        <td width="80px" align="center">
           <span><strong>Python</strong></span><br>
           <img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
        </td>
        <td width="80px" align="center">
-          <span><strong>C#</strong></span><br>
-          <img height="32" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">
+          <span><strong>R.Native</strong></span><br>
+          <img height="32" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg">
        </td>
      </tr>
    </tbody>   
