@@ -33,6 +33,7 @@
           <img height="32" src="https://user-images.githubusercontent.com/98132078/200368739-feb04eec-9271-4963-a569-1cabedd86139.png">
        </td>
         <td width="80px" align="center">
+          <span><strong>Java</strong></span><br>
           <img height="32" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
         </td>
         <td width="80px" align="center">
