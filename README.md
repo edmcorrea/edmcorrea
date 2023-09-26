@@ -1,11 +1,15 @@
-### Olá! Eu sou Edmilson Corrêa 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=headers&fontSize=30"/>
 
-- 📚 Estudante de Desenvolvimento Web - Full Stack - Trybe
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Edmilson+Corrêa;Sou+um+Desenvolvedor+Web+Full+Stack+:%29)](https://git.io/typing-svg)
+
+</br></br>
+
 - 🌱 Aprendendo Angular.js / Java
 - 📫 Como chegar até mim: edm.correa@hotmail.com  |  https://www.linkedin.com/in/edmilsoncorrea/
-- 😄 Pronomes: ele / dele
 - ⚡ Curiosidade: Adoro ler, praticar exercícios, forró, apaixonado por tecnologia
 - Portifólio: https://portifolio-virid-gamma.vercel.app/
+
+</br></br>
 
 <div align="center">
   <a href="https://github.com/edmcorrea">
@@ -29,12 +33,15 @@
           <img height="32" src="https://user-images.githubusercontent.com/98132078/200368739-feb04eec-9271-4963-a569-1cabedd86139.png">
        </td>
         <td width="80px" align="center">
+          <img height="32" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+        </td>
+        <td width="80px" align="center">
           <span><strong>React.js</strong></span><br>
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
         </td>
         <td width="80px" align="center">
-          <span><strong>Redux</strong></span><br>
-          <img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png">
+          <span><strong>Angular</strong></span><br>
+          <img height="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/>
         </td>
         <td width="80px" align="center">
           <span><strong>HTML</strong></span><br>
@@ -66,6 +73,10 @@
           <span><strong>Python</strong></span><br>
           <img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
        </td>
+      <td width="80px" align="center">
+         <span><strong>Redux</strong></span><br>
+         <img height="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png">
+        </td>
        <td width="80px" align="center">
           <span><strong>R.Native</strong></span><br>
           <img height="32" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg">
