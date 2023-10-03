@@ -10,16 +10,7 @@
 - Portifólio: https://portifolio-virid-gamma.vercel.app/
 
 </br></br>
-
-<div align="center">
-  <a href="https://github.com/edmcorrea">
-    
-<!--   <img width="47%" height="47%" src="https://github-readme-stats.vercel.app/api?username=edmcorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-    
-  <img width="47%" height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmcorrea&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
- <br />
+<br />
     
  <table width="320px" align="center">
    <tbody>
